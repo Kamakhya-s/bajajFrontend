@@ -26,7 +26,9 @@ function App() {
 
     return (
         <div className="App">
-            <h1>ABCD123</h1> {/* Replace with your actual roll number */}
+            <h1>0827CS211112</h1> 
+            <h1>Kamakhya Singh</h1> 
+            <h1>Acropolis Institute of Technology and Research</h1> 
             <input
                 type="text"
                 value={jsonInput}
